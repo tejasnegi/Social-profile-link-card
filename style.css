@@ -98,3 +98,10 @@ body {
   transform: scale(1.025);
   color: black;
 }
+
+.card-links:active {
+  background-color: rgb(140, 163, 66);
+  transform: scale(1.005);
+}
+
+
